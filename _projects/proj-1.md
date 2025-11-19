@@ -9,4 +9,5 @@ For one of the assignments in Public Policy Analytics class at MUSA at Penn, I c
 
 Read more about it in the report below.
 
-[View full report]Report/Washington-DC-TOD.html){:target="_blank"}
+<iframe src="Report/Washington-DC-TOD.html" width="100%" height="600px" style="border:1px solid #ccc;"></iframe>
+
