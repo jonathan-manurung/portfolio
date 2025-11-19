@@ -10,8 +10,7 @@ For one of the assignments in Public Policy Analytics class at MUSA at Penn, I c
 ![](/portfolio/assets/img/projects/proj-1/DC_metro_station_distance.jpg)
 
 Read more about it in the report below.
-
-[View full report](/portfolio/Report/Washington-DC-TOD.html){:target="_blank"}
+[View Report]({{ site.baseurl }}/Report/Washington-DC-TOD.html)
 
 
 
