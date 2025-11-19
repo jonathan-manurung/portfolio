@@ -11,4 +11,4 @@ For one of the assignments in Public Policy Analytics class at MUSA at Penn, I c
 
 Read more about it in the report below.
 
-[View full report](/Report/Washington-DC-TOD.html){:target="_blank"}
+[View full report](portfolio/Report/Washington-DC-TOD.html){:target="_blank"}
