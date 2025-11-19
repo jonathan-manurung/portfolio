@@ -10,6 +10,6 @@ For one of the assignments in Public Policy Analytics class at MUSA at Penn, I c
 Read more about it in the PDF below.
 
 
-<a href="_projects/Washington%20DC%20TOD.html" target="_blank">
+<a href="https://github.com/jonathan-manurung/portfolio/blob/main/_projects/Washington%20DC%20TOD.html" target="_blank">
   View Full Report
 </a>
