@@ -10,6 +10,6 @@ For one of the assignments in Public Policy Analytics class at MUSA at Penn, I c
 Read more about it in the PDF below.
 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+<a href="_projects/Washington%20DC%20TOD.html" target="_blank">
+  View Full Report
+</a>
