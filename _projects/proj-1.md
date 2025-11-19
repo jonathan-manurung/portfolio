@@ -1,9 +1,14 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Washington DC Transit Oriented Development'
 thumbnail: /assets/img/projects/proj-1/thumbnail.jpg
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+TOD recommends increasing housing and amenity around transit station such as rail, subway, bus, etc. TOD is also important for land value capitalization because its relation to rent price and property tax return. Do Washington D.C. households value transit-rich neighborhoods compared to others?
+
+For one of the assignments in Public Policy Analytics class at MUSA at Penn, I conducted TOD analysis in Washington D.C,to examine whether residents are willing to pay a premium to live in TOD areas, reflecting the benefits of proximity to transit, reduced commuting costs and time to access their office or any other amenities.
+
+Read more about it in the PDF below.
+
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
