@@ -7,10 +7,9 @@ TOD recommends increasing housing and amenity around transit station such as rai
 
 For one of the assignments in Public Policy Analytics class at MUSA at Penn, I conducted TOD analysis in Washington D.C,to examine whether residents are willing to pay a premium to live in TOD areas, reflecting the benefits of proximity to transit, reduced commuting costs and time to access their office or any other amenities.
 
-![](/portfolio/assets/img/projects/proj-1/DC_metro_station_distance.jpg)
+![](../assets/img/projects/proj-1/DC_metro_station_distance.jpg)
 
 Read more about it in the report below.
-[View Report]({{ site.baseurl }}/Report/Washington-DC-TOD.html)
-
+[View full report](../Report/Washington-DC-TOD.html){:target="_blank"}
 
 
