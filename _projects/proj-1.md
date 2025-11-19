@@ -9,4 +9,9 @@ For one of the assignments in Public Policy Analytics class at MUSA at Penn, I c
 
 Read more about it in the PDF below.
 
-[Click here to view the full report](https://jonathan-manurung.github.io/portfolio/_projects/Washington%20DC%20TOD.html){target="_blank"}
+<div class="embed-container">
+  <iframe 
+    src="_projects/Washington DC TOD.html" 
+    style="width:100%; height:800px; border:0;">
+  </iframe>
+</div>
