@@ -1,9 +1,14 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Lancaster County Development'
 thumbnail: /assets/img/projects/proj-2/thumbnail.jpg
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+Urban sprawl has become one of the challenges for fast-growing metro areas in the United States. The expansion spread to the surrounding suburb to accommodate the living space for the city residents. This practice promotes car-dependent communities, increase in higher infrastructure costs, generates air and water pollution, and especially the loss of natural and agriculture land which tend to be unsustainable.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+This project conducted Urban Growth Boundary analysis in Lancaster County to see the effect of the sprawl, and to identify and suggest the suitable towns for the current Urbang Growth Area expansion 
+
+![](../assets/img/projects/proj-2/Lancaster_bidrent_model.jpg)
+
+Read more about it in the report below.
+[View full report](../Report/Lancaster County Development.html){:target="_blank"}
