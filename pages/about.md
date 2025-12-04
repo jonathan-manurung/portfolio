@@ -5,6 +5,10 @@ headshot: /assets/img/headshot.webp
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Jonathan Harpin Manurung
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+I am a geospatial data scientist based in New York City. As a Master of Urban Spatial Analytics graduate from the University of Pennsylvania, where I focused on geospatial data science and urban planning, I applied analytical techniques to uncover spatial patterns and solve diverse real-world urban issues. I leverage tools and technology to forecast future outcomes and communicate insights to diverse audiences, including policymakers, to support data-driven decisions. With experience in geospatial analysis, public transportation projects, and predictive modeling, I focus on applying data and technology to solve real-world problems, particularly in transportation, environment, and urban development
+
+Previously, I worked as an Operations Manager in one of the State-Owned Enterprise in Indonesia. I have extensive experience managing multi-stakeholder projects, including a national project to accelerate the implementation of Geospatial Information in Indonesia through a Public-Private Partnership Project (PPP) with the Geospatial Agency of Indonesia. I managed and accelarated the execution of the project and oversaw the full project lifecycle. During my time at the University of Pennsylvania, I worked on some academic projects, including developing a flood inundation probability model to predict the inundation risk in the City of Denver, fire risk prediction project in Los Angeles, urban development forecast in Atlanta, and created data framework to correct underperforming transit lines in Charlotte.
+
+I’m interested in leveraging data to foster more inclusive, efficient, and equitable urban systems for the communities.
