@@ -21,11 +21,14 @@
     Resume
     </a>
 
-    <!-- Static menu items -->
+    <!-- Projects and other menu items -->
     {% for item in site.data.settings.menu %}
-      <a href="{{ item.url | relative_url }}" style="text-decoration: none; color: #333;">
-        {{ item.name }}
-      </a>
+    <a href="{{ item.url | relative_url }}" style="text-decoration: none; color: #333;">
+      {{ item.name }}
+    </a>
+    {% endfor %}
+  </nav>
+
     {% endfor %}
 
   </nav>
