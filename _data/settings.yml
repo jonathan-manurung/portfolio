@@ -9,7 +9,7 @@ intro_text: |
   here. This is a great place to very succinctly tell a visitor what drives you
   and what you're passionate about.
 
-resume: 'assets/Resume Jonathan H Manurung.pdf'
+resume: '/assets/Resume Jonathan H Manurung.pdf'
 resume_link_title: View Resume
 
 #-------------------------------
