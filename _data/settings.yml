@@ -18,7 +18,7 @@ resume_link_title: View Resume
 social_label: Connect
 social:
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/jonathan-harpin-manurung/'}
-- {icon: 'envelope',  link: 'mailto:mailto:jonathanhsmanurung@gmail.com'}
+- {icon: 'envelope',  link: 'mailto:jonathanhsmanurung@gmail.com'}
 - {icon: 'github',    link: 'https://github.com/lenpaul'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
