@@ -9,35 +9,21 @@
     </a>
   </div>
 
-  <nav style="display: flex; align-items: center; gap: 30px; font-weight: bold; margin: 20px 0;">
-    <!-- Home icon -->
-    <a href="/" style="display: flex; align-items: center; text-decoration: none; color: #333;">
-      <img src="/portfolio/assets/home-icon.png" alt="Home" style="width: 24px; height: 24px; margin-right: 8px;">
-      Home
-    </a>
+  <button type="button" id="menubutton" aria-haspopup="true" aria-controls="menu-panel" class="menu-trigger">
+    <span class="visually-hidden">Toggle Menu</span>
+    <div class="menu-trigger-bars" aria-hidden="true">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </div>
+  </button>
 
-    <!-- Resume link -->
-    <a href="{{ site.data.settings.resume | relative_url }}" target="_blank" style="text-decoration: none; color: #333;">
-    Resume
-    </a>
-
-    <!-- Projects and other menu items -->
+  <nav>
     {% for item in site.data.settings.menu %}
-    <a href="{{ item.url | relative_url }}" style="text-decoration: none; color: #333;">
-      {{ item.name }}
-    </a>
+      <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
     {% endfor %}
-  </nav>
-
-    {% endfor %}
-
-  </nav>
-
-    <!-- Resume button -->
     {% if site.data.settings.resume %}
-      <a href="{{ site.data.settings.resume | relative_url }}" target="_blank" style="text-decoration: none; color: #333;">
-        {{ site.data.settings.resume_link_title }}
-      </a>
+      <a href="{{ site.data.settings.resume }}">{{ site.data.settings.resume_link_title }}</a>
     {% endif %}
   </nav>
 
