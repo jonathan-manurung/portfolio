@@ -51,3 +51,9 @@ google-analytics-ua: 'UA-112060364-3'
 disqus:
   comments: false
   disqus_shortname: ''
+
+#-------------------------------
+# Profile Image Settings
+profile_image: "/assets/img/7X2A3905.JPG"
+image_width: 18em
+image_shape: round
