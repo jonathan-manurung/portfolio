@@ -12,6 +12,12 @@ intro_text: |
 resume: 'https://jonathan-manurung.github.io/portfolio/assets/Resume Jonathan H Manurung.pdf'
 resume_link_title: View Resume
 
+menu:
+- {name: 'Projects', url: ' '}
+- {name: 'Blog',     url: 'blog'}
+- {name: 'About',    url: 'about'}
+- {name: 'Contact',  url: 'contact'}
+
 #-------------------------------
 # Contact Section
 
