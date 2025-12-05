@@ -4,23 +4,50 @@ layout: default
 
 <main class="projects-main">
 
- <section class="about-container">
-    <h1>About Me</h1>
-    <p>
-      I am a geospatial data scientist based in New York City. As a Master of Urban Spatial Analytics graduate from the University of Pennsylvania, where I focused on geospatial data science and urban planning, I applied analytical techniques to uncover spatial patterns and solve diverse real-world urban issues. I leverage tools and technology to forecast future outcomes and communicate insights to diverse audiences, including policymakers, to support data-driven decisions. With experience in geospatial analysis and predictive modeling, I focus on applying data and technology to solve real-world problems, particularly in transportation, environment, and urban development. <br> <br>
+  <section class="home-hero" style="display: flex; align-items: center; gap: 40px; margin: 40px 0;">
+
+    <!-- LEFT SIDE: PHOTO + NAME + CONTACTS -->
+    <div class="left-panel" style="flex: 1; text-align: center;">
+      
+      <!-- Your Photo -->
+      <img 
+       src="{{ site.data.settings.profile_image }}" 
+       alt="Profile Photo"
+       style="width: {{ site.data.settings.image_width }};
+           height: {{ site.data.settings.image_width }};
+           border-radius: {% if site.data.settings.image_shape == 'round' %}50%{% else %}0{% endif %};
+           object-fit: cover;">
+     
+      <!-- Your Name -->
+      <h1 style="margin-top: 20px;">Jonathan Harpin Manurung</h1>
+
+      <!-- Contact Icons -->
+      <div class="contact-icons" style="margin-top: 10px; font-size: 28px;">
+        <a href="mailto:jonathanhsmanurung@gmail.com" target="_blank">📧</a>
+        <a href="https://linkedin.com/in/jonathan-harpin-manurung" target="_blank">🔗</a>
+        <a href="https://github.com/yourusername" target="_blank">🐙</a>
+      </div>
+
+    </div>
+
+
+    <!-- RIGHT SIDE: ABOUT ME DESCRIPTION -->
+    <div class="right-panel" style="flex: 2; font-size: 17px; line-height: 1.6;">
+      <p>
+        I am a geospatial data scientist based in New York City. As a Master of Urban Spatial Analytics graduate from the University of Pennsylvania, where I focused on geospatial data science and urban planning, I applied analytical techniques to uncover spatial patterns and solve diverse real-world urban issues. I leverage tools and technology to forecast future outcomes and communicate insights to diverse audiences, including policymakers, to support data-driven decisions. With experience in geospatial analysis and predictive modeling, I focus on applying data and technology to solve real-world problems, particularly in transportation, environment, and urban development. <br> <br>
       Previously, I worked as an Operations Manager in one of the State-Owned Enterprise in Indonesia. I have extensive experience managing multi-stakeholder projects, including a national project to accelerate the implementation of Geospatial Information in Indonesia through a Public-Private Partnership Project (PPP) with the Geospatial Agency of Indonesia. <br> I managed and accelarated the execution of the project and oversaw the full project lifecycle. During my time at the University of Pennsylvania, I worked on some academic projects, including developing a flood inundation probability model to predict the inundation risk in the City of Denver, fire risk prediction project in Los Angeles, urban development forecast in Atlanta, and created data framework to correct underperforming transit lines in Charlotte. <br> <br>
-      I’m interested in leveraging data to foster more inclusive, efficient, and equitable urban systems for the communities.
-    </p>
+      I’m interested in leveraging data to foster more inclusive, efficient, and equitable urban systems for the communities. <br><br>
+      </p>
+    </div>
+
   </section>
 
- {% if site.data.settings.resume %}
-  <section class="resume-button-container" style="text-align:center; margin: 20px 0;">
-    <a class="button" href="{{ site.data.settings.resume }}" target="_blank">
-      {{ site.data.settings.resume_link_title }}
-    </a>
-  </section>
+
+  <!-- Resume button (optional) -->
+  {% if site.data.settings.resume %}
+    <section class="resume-button-container" style="text-align:center; margin: 20px 0;">
+      <a class="button" href="{{ site.data.settings.resume }}" target="_blank">
+        {{ site.data.settings.resume_link_title }}
+      </a>
+    </section>
   {% endif %}
- 
-  {% include projects.html %}
-
-</main>
