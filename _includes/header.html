@@ -9,6 +9,20 @@
     </a>
   </div>
 
+  <nav style="display: flex; align-items: center; gap: 25px; font-weight: bold;">
+  {% for item in site.data.settings.menu %}
+    <a href="{{ item.url | relative_url }}" style="text-decoration: none; color: #333;">
+      {{ item.name }}
+    </a>
+  {% endfor %}
+  
+  {% if site.data.settings.resume %}
+    <a href="{{ site.data.settings.resume }}" target="_blank" style="text-decoration: none; color: #333;">
+      {{ site.data.settings.resume_link_title }}
+    </a>
+  {% endif %}
+</nav>
+
   <button type="button" id="menubutton" aria-haspopup="true" aria-controls="menu-panel" class="menu-trigger">
     <span class="visually-hidden">Toggle Menu</span>
     <div class="menu-trigger-bars" aria-hidden="true">
