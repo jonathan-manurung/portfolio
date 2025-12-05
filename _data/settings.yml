@@ -13,7 +13,7 @@ resume: '/assets/files/resume.pdf'
 resume_link_title: Download Resume
 
 menu:
-- {name: 'Resume',    url: 'about'}
+- {name: 'Resume',    url: 'assets/Resume Jonathan H Manurung.pdf'}
 - {name: 'Projects',  url: 'contact'}
 
 #-------------------------------
