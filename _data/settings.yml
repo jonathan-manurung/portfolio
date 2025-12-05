@@ -10,7 +10,7 @@ intro_text: |
   and what you're passionate about.
 
 resume: '/assets/files/resume.pdf'
-resume_link_title: Download Resume
+resume_link_title: View Resume
 
 menu:
 - {name: 'Resume',    url: 'assets/Resume Jonathan H Manurung.pdf'}
