@@ -21,7 +21,7 @@ menu:
 
 social_label: Connect
 social:
-- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/jonathan-harpin-manurung/'}
+- {icon: 'linkedin',  link: 'https://linkedin.com/in/jonathan-harpin-manurung/'}
 - {icon: 'envelope',  link: 'mailto:mailto:jonathanhsmanurung@gmail.com'}
 - {icon: 'github',    link: 'https://github.com/lenpaul'}
 
