@@ -14,7 +14,7 @@ resume_link_title: Download Resume
 
 menu:
 - {name: 'Resume',    url: 'assets/Resume Jonathan H Manurung.pdf'}
-- {name: 'Projects',  url: 'contact'}
+- {name: 'Projects',  url: '_projects'}
 
 #-------------------------------
 # Contact Section
