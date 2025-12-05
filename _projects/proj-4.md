@@ -8,7 +8,7 @@ In preparation for the high precipitation season and to mitigate more loss, it i
 
 This project will build an inundation predictive model to predict areas of flood inundation in the city, by borrowing the experience from past inundation, associate the past event with related variables, and test the model’s validity on predicting the flood inundation event in the city of Calgary. The generated predictive model will be applied to predict flood inundation for a comparable city, in this case, Denver, Colorado, United States of America.
 
-![](../assets/img/projects/proj-2/Lancaster_bidrent_model.jpg)
+![](../assets/img/inundation.png)
 
 Read more about it in the report below.
 [View full report](../Report/CPLN 675 ASSIGNMENT 03 JONATHAN_JUNE (1).pdf){:target="_blank"}
