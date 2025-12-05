@@ -16,6 +16,11 @@
       Home
     </a>
 
+  <!-- Resume link right next to Home -->
+  <a href="{{ site.data.settings.resume | relative_url }}" target="_blank" style="text-decoration: none; color: #333;">
+    Resume
+  </a>
+
     <!-- Static menu items -->
     {% for item in site.data.settings.menu %}
       <a href="{{ item.url | relative_url }}" style="text-decoration: none; color: #333;">
@@ -23,10 +28,6 @@
       </a>
     {% endfor %}
 
-    <!-- Resume menu item -->
-    <a href="{{ site.data.settings.resume | relative_url }}" target="_blank" style="text-decoration: none; color: #333;">
-      Resume
-    </a>
   </nav>
 
     <!-- Resume button -->
