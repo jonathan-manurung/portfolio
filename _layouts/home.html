@@ -12,6 +12,14 @@ layout: default
       I’m interested in leveraging data to foster more inclusive, efficient, and equitable urban systems for the communities.
     </p>
   </section>
+
+ {% if site.data.settings.resume %}
+  <section class="resume-button-container" style="text-align:center; margin: 20px 0;">
+    <a class="button" href="{{ site.data.settings.resume }}" target="_blank">
+      {{ site.data.settings.resume_link_title }}
+    </a>
+  </section>
+  {% endif %}
  
   {% include projects.html %}
 
