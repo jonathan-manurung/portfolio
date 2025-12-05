@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lancaster County Development'
-thumbnail: /assets/img/projects/proj-2/thumbnail.jpg
+thumbnail: "https://co.lancaster.pa.us/ImageRepository/Document?documentID=12365"
 ---
 
 Urban sprawl has become one of the challenges for fast-growing metro areas in the United States. The expansion spread to the surrounding suburb to accommodate the living space for the city residents. This practice promotes car-dependent communities, increase in higher infrastructure costs, generates air and water pollution, and especially the loss of natural and agriculture land which tend to be unsustainable.
