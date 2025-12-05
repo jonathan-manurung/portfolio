@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Washington DC Transit Oriented Development'
-thumbnail: /assets/img/projects/proj-1/thumbnail.jpg
+thumbnail: "https://www.wmata.com/business/real-estate/images/Station-Area-Planning-Guide-October-2017.png"
 ---
 TOD recommends increasing housing and amenity around transit station such as rail, subway, bus, etc. TOD is also important for land value capitalization because its relation to rent price and property tax return. Do Washington D.C. households value transit-rich neighborhoods compared to others?
 
