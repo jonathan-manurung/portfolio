@@ -8,7 +8,7 @@ This project is a part of 8010 Master of Urban Spatial Analytics (MUSA)/Smart Ci
 
 This project will support CATS transportation planners in improving bus line efficiency by analyzing historical ridership trends per bus stop to identify and predict underperforming stops and routes. Our team want to understand the dynamics of the bus system then develop a model that forecast demand. Our team will model monthly bus demand by line and stop using APC data (boarding and alighting counts)
 
-![](../assets/img/Stop Watch_Charlotte.png)
+![](../assets/img/Charlotte_Stopwatch.png)
 
 Read more about it in the report below.
 [View full report](../Report/Combined_RMD.html){:target="_blank"}
