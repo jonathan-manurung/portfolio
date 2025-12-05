@@ -12,10 +12,6 @@ intro_text: |
 resume: 'assets/Resume Jonathan H Manurung.pdf'
 resume_link_title: View Resume
 
-menu:
-- {name: 'Resume',    url: 'assets/Resume Jonathan H Manurung.pdf'}
-- {name: 'Projects',  url: './_projects'}
-
 #-------------------------------
 # Contact Section
 
