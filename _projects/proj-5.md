@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Charlotte, NC - A Data Framework to Correct Underperforming Transit Lines'
-thumbnail: 
+thumbnail: "https://www.charlottenc.gov/files/sharedassets/cats/v/1/cats-images/news/press-release/cats_07252023-lw1_9946.jpg?w=1200"
 
 ---
 This project is a part of 8010 Master of Urban Spatial Analytics (MUSA)/Smart Cities Practicum Spring 2024 and in collaboration with Charlotte Area Transit System (CATS). We would like to give special thanks to our instructors Michael Fichman and Matthew Harris, also to Carlos Parada, Bruce Jones, and Jessica Odette from CATS for providing data, insight, and support over the course in the semester
