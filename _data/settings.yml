@@ -54,6 +54,6 @@ disqus:
 
 #-------------------------------
 # Profile Image Settings
-profile_image: '/assets/img/7X2A3905.JPG'
+profile_image: '/portfolio/assets/img/7X2A3905.JPG'
 image_width: 18em
 image_shape: round
