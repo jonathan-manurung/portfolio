@@ -19,7 +19,7 @@ social_label: Connect
 social:
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/jonathan-harpin-manurung/'}
 - {icon: 'envelope',  link: 'mailto:jonathanhsmanurung@gmail.com'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
+- {icon: 'github',    link: 'https://github.com/jonathan-manurung'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
