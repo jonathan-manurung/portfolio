@@ -10,10 +10,9 @@ This project will support CATS transportation planners in improving bus line eff
 
 ![](../assets/img/Stop Watch_Charlotte.png)
 
-
-
 Read more about it in the report below.
-[View full report](../Report/Washington-DC-TOD.html){:target="_blank"}
+[View full report](../Report/Combined_RMD.html){:target="_blank"}
 
-
-
+To experience more about the analysis, please check out our project app.  
+The project app contains a link to our website:  
+👉 [Open the Project App]([https://your-app-link.com](https://roshiniganesh.shinyapps.io/MUSA-Charlotte-ShinyApp/))
