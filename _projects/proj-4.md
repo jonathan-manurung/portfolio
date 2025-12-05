@@ -11,5 +11,4 @@ This project will build an inundation predictive model to predict areas of flood
 ![](../assets/img/projects/proj-2/Lancaster_bidrent_model.jpg)
 
 Read more about it in the report below.
-[View full report](../Report/Lancaster County Development.html){:target="_blank"}
-
+[View full report](../Report/CPLN 675 ASSIGNMENT 03 JONATHAN_JUNE (1).pdf){:target="_blank"}
