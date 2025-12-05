@@ -15,4 +15,4 @@ Read more about it in the report below.
 
 To experience more about the analysis, please check out our project app.  
 The project app contains a link to our website:  
-👉 [Open the Project App]([https://your-app-link.com](https://roshiniganesh.shinyapps.io/MUSA-Charlotte-ShinyApp/))
+[Open the Project App](https://roshiniganesh.shinyapps.io/MUSA-Charlotte-ShinyApp/)
