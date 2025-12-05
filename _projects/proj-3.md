@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Lancaster County Development'
+title: 'Hedonic Home Price Prediction'
 thumbnail: /assets/img/projects/proj-2/thumbnail.jpg
 ---
 
-Urban sprawl has become one of the challenges for fast-growing metro areas in the United States. The expansion spread to the surrounding suburb to accommodate the living space for the city residents. This practice promotes car-dependent communities, increase in higher infrastructure costs, generates air and water pollution, and especially the loss of natural and agriculture land which tend to be unsustainable.
+Finding an ideal housing is the main challenge when people decided to move to Philadelphia. A house with a lot of surrounding public amenities, safe neighborhood, and offer a lot of internal features will be desirable, but in what price? Navigating house prices in this city can be challenging, thus a price prediction tool will be helpful to give initial information to the buyer.
 
-This project conducted Urban Growth Boundary analysis in Lancaster County to see the effect of the sprawl, and to identify and suggest the suitable towns for the current Urbang Growth Area expansion 
+This project's objective is to create a tool to estimate a home's market value based on a valuation model that associate local intelligence factor in Philadelphia. This include house's internal characteristic. proximity to amenities and (dis)amenities, and trends into account.
 
 ![](../assets/img/projects/proj-2/Lancaster_bidrent_model.jpg)
 
