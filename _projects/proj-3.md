@@ -11,4 +11,4 @@ This project's objective is to create a tool to estimate a home's market value b
 ![](../assets/img/house price.jpg) 
 
 Read more about it in the report below.
-[View full report](../Report/Lancaster County Development.html){:target="_blank"}
+[View full report](../Report/Midterm_Resubmission_Jonathan_June.html){:target="_blank"}
