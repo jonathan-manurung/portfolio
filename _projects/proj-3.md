@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hedonic Home Price Prediction'
-thumbnail: /assets/img/projects/proj-2/thumbnail.jpg
+thumbnail: "https://www.pha.phila.gov/wp-content/uploads/2022/10/housing-choice-voucher.png"
 ---
 
 Finding an ideal housing is the main challenge when people decided to move to Philadelphia. A house with a lot of surrounding public amenities, safe neighborhood, and offer a lot of internal features will be desirable, but in what price? Navigating house prices in this city can be challenging, thus a price prediction tool will be helpful to give initial information to the buyer.
