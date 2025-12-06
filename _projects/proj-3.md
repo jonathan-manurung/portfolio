@@ -8,7 +8,7 @@ Finding an ideal housing is the main challenge when people decided to move to Ph
 
 This project's objective is to create a tool to estimate a home's market value based on a valuation model that associate local intelligence factor in Philadelphia. This include house's internal characteristic. proximity to amenities and (dis)amenities, and trends into account.
 
-![](../assets/img/projects/proj-2/Lancaster_bidrent_model.jpg)
+![](../assets/img/house price.jpg) 
 
 Read more about it in the report below.
 [View full report](../Report/Lancaster County Development.html){:target="_blank"}
