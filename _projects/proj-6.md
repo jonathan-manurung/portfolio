@@ -2,18 +2,19 @@
 layout: post
 title: 'Urban Development Forecast in Atlanta Metropolitan Statistical Area (MSA)'
 
-thumbnail: "https://www.charlottenc.gov/files/sharedassets/cats/v/1/cats-images/news/press-release/cats_07252023-lw1_9946.jpg?w=1200"
+thumbnail: "https://cdn.prod.website-files.com/6009dcb93fd7208338f02067/664fad080d7d14d3e1109416_atl-skyline4.jpg"
 
 ---
-This project is a part of 8010 Master of Urban Spatial Analytics (MUSA)/Smart Cities Practicum Spring 2024 and in collaboration with Charlotte Area Transit System (CATS). We would like to give special thanks to our instructors Michael Fichman and Matthew Harris, also to Carlos Parada, Bruce Jones, and Jessica Odette from CATS for providing data, insight, and support over the course in the semester
+Atlanta is one of the fastest growing metropolitan areas in the United States. In 2011 the city’s Metropolitan Service Area (MSA) had a population of 4,544,000 people. By 2021 the population had increased to 5,911,000 people an increase of 30% in just ten years. By 2031 the population is forecasted to reach 6,662,000 people. This high population growth, has resulted in an increase in development. This development is necessary to provide homes for new residents, and additional commercial space to serve a growing population. However, urban development also creates a higher likelihood of urban sprawl, which can have detrimental impacts on the environment and result in biodiversity loss and increased storm water runoff.
 
-This project will support CATS transportation planners in improving bus line efficiency by analyzing historical ridership trends per bus stop to identify and predict underperforming stops and routes. Our team want to understand the dynamics of the bus system then develop a model that forecast demand. Our team will model monthly bus demand by line and stop using APC data (boarding and alighting counts)
+[View poster](../Report/Urban Development Forecast.pdf){:target="_blank"}
 
-![](../assets/img/Charlotte_Stopwatch.png)
+This project developed a logistic regression model based on where development could take place between 2021 and 2031, which is used for forecasting land use change.
+
+Urban Growth Boundary
+![](../assets/img/Atlanta.png)
 
 Read more about it in the report below.
-[View full report](../Report/Combined_RMD.html){:target="_blank"}
+[View full report](../Report/CPLN_6750_HW5_RB_JM (1).html){:target="_blank"}
 
-To experience more about the analysis, please check out our project app.  
-The project app contains a link to our website:  
-[Open the Project App](https://roshiniganesh.shinyapps.io/MUSA-Charlotte-ShinyApp/){:target="_blank"}
+
